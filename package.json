@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-hello-friend",
+  "name": "gatsby-hello-friend",
   "description": "A simple starter for Gatsby. That's it.",
   "version": "0.2.0",
   "author": "Radek Kozieł <radoslaw.koziel@gmail.com>",
@@ -26,7 +26,7 @@
     "gatsby-awesome-pagination": "^0.3.3",
     "gatsby-image": "^2.0.20",
     "gatsby-plugin-manifest": "^2.0.9",
-    "gatsby-plugin-offline": "^2.0.16",
+    "gatsby-plugin-offline": "^2.2.10",
     "gatsby-plugin-postcss": "^2.0.2",
     "gatsby-plugin-react-helmet": "^3.0.2",
     "gatsby-plugin-sharp": "^2.0.17",
