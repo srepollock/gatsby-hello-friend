@@ -8,9 +8,9 @@ const postCSSMixins = require('postcss-mixins')
 module.exports = {
   siteMetadata: {
     title: `Hello Friend`,
-    description: `A simple starter for Gatsby. That's it.`,
+    description: `Extended from work by @panr`,
     copyrights: '',
-    author: `@panr`,
+    author: `@srepollock`,
     logo: {
       src: '',
       alt: '',
@@ -24,15 +24,7 @@ module.exports = {
       {
         title: 'About',
         path: '/about',
-      },
-      {
-        title: 'Showcase',
-        path: '/showcase',
-      },
-      {
-        title: 'Example',
-        path: '/example',
-      },
+      }
     ],
   },
   plugins: [

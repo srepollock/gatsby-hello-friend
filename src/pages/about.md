@@ -1,23 +1,22 @@
 ---
 title: "About"
-date: "2018-07-19"
-author: "Radek"
+date: "2020-06-18"
+author: "Spencer"
 path: "/about"
 ---
 
-## Hi there
+## Well, hello there
 
-My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
+My name is Spencer and I'm an avid programmer working to better myself on new and emerging technology.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+I've cloned this project from the great work of Radek (@panr) and would like to use it as an example site for more work in the future.
 
-This starter is pretty basic and covers all of the essentials. All you have to do is start typing!
+I've just begun my web development journey, but I would like to extend my work out into more aspects of my life as I continue to grow.
 
-The starter includes:
+Thanks for taking the time to read this. If you'd like to follow me on my journey, please check out my social links
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)
+- [twitter](https://twitter.com/srepollock)
+- [github](https://github.com/srepollock)
+- [webiste](https://spollock.ca)
 
-So, there you have it... enjoy!
+Have a fantastic rest of the day!
